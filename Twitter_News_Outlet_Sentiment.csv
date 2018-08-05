@@ -1,0 +1,101 @@
+Compound_Score,Neg_Score,Neu_Score,Pos_Score,Timestamp,Tweet_Text,Tweets_Ago,User
+0.0,0.0,1.0,0.0,Sat Jun 09 22:23:33 +0000 2018,Op-Ed Columnist: Debacle in Quebec. https://t.co/hubSiRdo02,1,NYT
+0.4404,0.0,0.734,0.266,Sat Jun 09 22:21:34 +0000 2018,Contributing Op-Ed Writer: Selling the Protected Area Myth. https://t.co/9SquStMTQF,2,NYT
+-0.6705,0.647,0.353,0.0,Sat Jun 09 22:05:33 +0000 2018,I Have Post-Brokeness Stress Disorder. https://t.co/8fLV7o0oF4,3,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 21:48:34 +0000 2018,"Barbara Kafka, Cookbook Author and Food Writer, Dies at 84. https://t.co/oAcvXg0h66",4,NYT
+-0.6486,0.264,0.736,0.0,Sat Jun 09 21:47:33 +0000 2018,"Kate Spade, Whose Handbags Carried Women Into Adulthood, Is Dead at 55. https://t.co/uHFwKZITDK",5,NYT
+-0.4215,0.219,0.781,0.0,Sat Jun 09 21:30:34 +0000 2018,Yankees Put Masahiro Tanaka on the D.L. After a Base-Running Injury. https://t.co/wOcduSeuQf,6,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 20:09:33 +0000 2018,"Lorraine Gordon, Keeper of the Village Vanguard Flame, Dies at 95. https://t.co/IhliN1drtB",7,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 20:08:33 +0000 2018,The Last Word: Lorraine Gordon. https://t.co/AJAAYpB1b3,8,NYT
+0.6597,0.138,0.345,0.517,Sat Jun 09 20:07:33 +0000 2018,Surviving the Miss Ex-Yugoslavia Beauty Pageant. https://t.co/yAXCEm9jig,9,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 20:06:33 +0000 2018,Op-Ed Columnist: Bill’s Belated #MeToo Moment. https://t.co/eXd8ydnxPK,10,NYT
+-0.5423,0.259,0.741,0.0,Sat Jun 09 20:05:33 +0000 2018,Salmonella Outbreak That Sickened 60 Is Linked to Pre-Cut Melons. https://t.co/nmjWBc0pbK,11,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 19:49:33 +0000 2018,Belmont Stakes 2018: Updates as Justify Attempts a Triple Crown Sweep. https://t.co/YIxpCDJeQY,12,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 19:34:34 +0000 2018,The Allegory of the Baseball Broadcast Booth. https://t.co/dKWLD7G7s3,13,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 19:33:33 +0000 2018,The 1st 2020 Race Is Underway: Scrambling for New York Donors. https://t.co/NEL3YbxOot,14,NYT
+0.3612,0.0,0.762,0.238,Sat Jun 09 18:53:34 +0000 2018,Op-Ed Columnist: Scott Pruitt Smells Like the Ritz. https://t.co/n8BcushmxF,15,NYT
+-0.2023,0.294,0.476,0.23,Sat Jun 09 18:52:33 +0000 2018,Op-Ed Columnist: Grim Trends in Good Times. https://t.co/0bCNhgpEV6,16,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 18:51:33 +0000 2018,"Vote For Me! For Second Place, at Least?. https://t.co/sPTWT8D6iQ",17,NYT
+-0.296,0.18,0.82,0.0,Sat Jun 09 18:50:34 +0000 2018,Editorial Observer: African-Americans and the Strains of the National Anthem. https://t.co/IJyWRUYdVu,18,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 18:49:34 +0000 2018,How a Pediatrician Became a Detective. https://t.co/nX5miCIxJo,19,NYT
+0.2263,0.0,0.826,0.174,Sat Jun 09 18:48:33 +0000 2018,Opinion: Turning Affluent Suburbs Blue Isn’t Worth the Cost. https://t.co/pGcdxe9mc7,20,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 22:23:33 +0000 2018,Op-Ed Columnist: Debacle in Quebec. https://t.co/hubSiRdo02,21,NYT
+0.4404,0.0,0.734,0.266,Sat Jun 09 22:21:34 +0000 2018,Contributing Op-Ed Writer: Selling the Protected Area Myth. https://t.co/9SquStMTQF,22,NYT
+-0.6705,0.647,0.353,0.0,Sat Jun 09 22:05:33 +0000 2018,I Have Post-Brokeness Stress Disorder. https://t.co/8fLV7o0oF4,23,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 21:48:34 +0000 2018,"Barbara Kafka, Cookbook Author and Food Writer, Dies at 84. https://t.co/oAcvXg0h66",24,NYT
+-0.6486,0.264,0.736,0.0,Sat Jun 09 21:47:33 +0000 2018,"Kate Spade, Whose Handbags Carried Women Into Adulthood, Is Dead at 55. https://t.co/uHFwKZITDK",25,NYT
+-0.4215,0.219,0.781,0.0,Sat Jun 09 21:30:34 +0000 2018,Yankees Put Masahiro Tanaka on the D.L. After a Base-Running Injury. https://t.co/wOcduSeuQf,26,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 20:09:33 +0000 2018,"Lorraine Gordon, Keeper of the Village Vanguard Flame, Dies at 95. https://t.co/IhliN1drtB",27,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 20:08:33 +0000 2018,The Last Word: Lorraine Gordon. https://t.co/AJAAYpB1b3,28,NYT
+0.6597,0.138,0.345,0.517,Sat Jun 09 20:07:33 +0000 2018,Surviving the Miss Ex-Yugoslavia Beauty Pageant. https://t.co/yAXCEm9jig,29,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 20:06:33 +0000 2018,Op-Ed Columnist: Bill’s Belated #MeToo Moment. https://t.co/eXd8ydnxPK,30,NYT
+-0.5423,0.259,0.741,0.0,Sat Jun 09 20:05:33 +0000 2018,Salmonella Outbreak That Sickened 60 Is Linked to Pre-Cut Melons. https://t.co/nmjWBc0pbK,31,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 19:49:33 +0000 2018,Belmont Stakes 2018: Updates as Justify Attempts a Triple Crown Sweep. https://t.co/YIxpCDJeQY,32,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 19:34:34 +0000 2018,The Allegory of the Baseball Broadcast Booth. https://t.co/dKWLD7G7s3,33,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 19:33:33 +0000 2018,The 1st 2020 Race Is Underway: Scrambling for New York Donors. https://t.co/NEL3YbxOot,34,NYT
+0.3612,0.0,0.762,0.238,Sat Jun 09 18:53:34 +0000 2018,Op-Ed Columnist: Scott Pruitt Smells Like the Ritz. https://t.co/n8BcushmxF,35,NYT
+-0.2023,0.294,0.476,0.23,Sat Jun 09 18:52:33 +0000 2018,Op-Ed Columnist: Grim Trends in Good Times. https://t.co/0bCNhgpEV6,36,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 18:51:33 +0000 2018,"Vote For Me! For Second Place, at Least?. https://t.co/sPTWT8D6iQ",37,NYT
+-0.296,0.18,0.82,0.0,Sat Jun 09 18:50:34 +0000 2018,Editorial Observer: African-Americans and the Strains of the National Anthem. https://t.co/IJyWRUYdVu,38,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 18:49:34 +0000 2018,How a Pediatrician Became a Detective. https://t.co/nX5miCIxJo,39,NYT
+0.2263,0.0,0.826,0.174,Sat Jun 09 18:48:33 +0000 2018,Opinion: Turning Affluent Suburbs Blue Isn’t Worth the Cost. https://t.co/pGcdxe9mc7,40,NYT
+-0.5423,0.412,0.588,0.0,Sat Jun 09 18:47:33 +0000 2018,The Resource Curse of Appalachia. https://t.co/qYD6lrmAu1,41,NYT
+-0.1531,0.167,0.833,0.0,Sat Jun 09 18:46:33 +0000 2018,News Analysis: Miss America Gets to Dress Herself. https://t.co/Y4AYyGxWRe,42,NYT
+-0.5994,0.281,0.719,0.0,Sat Jun 09 18:45:33 +0000 2018,International Court Throws Out War Crimes Conviction of Congolese Politician. https://t.co/GIKw5e03ge,43,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 18:44:34 +0000 2018,"Op-Ed Columnist: North Korea, Trump and Human Rights. https://t.co/bHs56ms1CG",44,NYT
+0.4767,0.0,0.744,0.256,Sat Jun 09 18:43:34 +0000 2018,‘Tony Was a Symphony’: Friends and Fans Remember Anthony Bourdain. https://t.co/S95GanVxXZ,45,NYT
+0.3612,0.0,0.815,0.185,Sat Jun 09 18:29:33 +0000 2018,"In Alternative World Cup, Would-be Nations Like Tibet Vie for Recognition. https://t.co/FxobIz9cQY",46,NYT
+0.5106,0.0,0.798,0.202,Sat Jun 09 18:28:33 +0000 2018,Postcards From the French Open: Cheering John McEnroe in Paris Never Gets Old. https://t.co/Oft1MDBDo9,47,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 18:13:33 +0000 2018,"In Newark, Police Cameras, and the Internet, Watch You. https://t.co/ficLp0JRMs",48,NYT
+0.5859,0.0,0.743,0.257,Sat Jun 09 17:59:33 +0000 2018,"A Visa Lottery Winner a Decade Ago, a U.S. Soldier Returns Home to Lithuania. https://t.co/RuLdmBpY2M",49,NYT
+-0.4019,0.213,0.787,0.0,Sat Jun 09 17:43:33 +0000 2018,"In the Trump Administration, Science Is Unwelcome. So Is Advice.. https://t.co/RlCMzjvIuk",50,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 17:42:33 +0000 2018,Keeping Score: The Warriors Were Dominant. But How Dominant?. https://t.co/yZHNDtPFXz,51,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 17:28:33 +0000 2018,Malaysia Steps Up $4.5 Billion Corruption Inquiry. https://t.co/Jv0FFihc2E,52,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 16:25:33 +0000 2018,The World Cup Isn’t About Football. It’s About Everything.. https://t.co/0RekCENiXZ,53,NYT
+-0.3818,0.178,0.822,0.0,Sat Jun 09 16:10:33 +0000 2018,Extra bases: How the Mariners Found Their Way After Losing Robinson Cano. https://t.co/7caUvrrmgH,54,NYT
+0.6705,0.0,0.593,0.407,Sat Jun 09 16:09:33 +0000 2018,Turkish Opposition Hopes 4 Parties Are Mightier Than 1 Against Erdogan. https://t.co/itXkghsggc,55,NYT
+0.5106,0.0,0.68,0.32,Sat Jun 09 15:56:33 +0000 2018,Trump Displays Confidence About North Korea Talks. https://t.co/d40Av07qZb,56,NYT
+0.34,0.0,0.806,0.194,Sat Jun 09 15:55:33 +0000 2018,Contributing Op-Ed Writer: The Secret Life and Value of Trees. https://t.co/M6PKuRDiIS,57,NYT
+-0.836,0.467,0.533,0.0,Sat Jun 09 15:54:34 +0000 2018,Sorrow and Questions in a French Village After Anthony Bourdain’s Suicide. https://t.co/WLnVwoJWq1,58,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 15:43:33 +0000 2018,Trump Invitation to Russia Deepens Rift With America’s Allies. https://t.co/xpCzJPjALf,59,NYT
+-0.296,0.155,0.845,0.0,Sat Jun 09 15:42:33 +0000 2018,Trump Says U.S. Will No Longer Be ‘Piggy Bank That Everybody’s Robbing’. https://t.co/pk08R5Et7C,60,NYT
+-0.296,0.167,0.833,0.0,Sat Jun 09 15:41:33 +0000 2018,No Need to Prepare to Meet Kim Jong-un? Trump Has a Point. https://t.co/Z6qBSTHLrx,61,NYT
+-0.4588,0.2,0.8,0.0,Sat Jun 09 15:24:33 +0000 2018,"Simona Halep Breaks Through, Beating Sloane Stephens for the French Open Title. https://t.co/FXZcsO2uvf",62,NYT
+0.5574,0.0,0.714,0.286,Sat Jun 09 15:10:33 +0000 2018,Who Will Pick Up the Supreme Leader’s Hotel Tab?. https://t.co/ivFktstJj8,63,NYT
+0.4939,0.0,0.686,0.314,Sat Jun 09 15:09:33 +0000 2018,Sporting: The Distinct Joys of Clay-Court Tennis. https://t.co/GAsr50PgaO,64,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 14:55:33 +0000 2018,Mini-Vows: They Hit It Off During a Surgical Consultation. https://t.co/SZwfDHH2wh,65,NYT
+0.3182,0.0,0.777,0.223,Sat Jun 09 14:54:33 +0000 2018,"Mini-Vows: A Sense of Adventure, Whether Near or Far. https://t.co/qxnXjrvyC8",66,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 14:53:34 +0000 2018,Mini-Vows: The Heart Just Grew Fonder When He Was in the Middle East. https://t.co/1EVqIZOXTm,67,NYT
+-0.296,0.136,0.864,0.0,Sat Jun 09 11:23:33 +0000 2018,Pope Tells Oil Executives to Act on Climate: ‘There Is No Time to Lose’. https://t.co/My6lkIY8VE,68,NYT
+-0.7717,0.427,0.573,0.0,Sat Jun 09 10:51:33 +0000 2018,"Mark Zuckerberg, Elon Musk and the Feud Over Killer Robots. https://t.co/CDaPcICz9B",69,NYT
+-0.4939,0.314,0.686,0.0,Sat Jun 09 10:23:33 +0000 2018,Nonfiction: How Christians Destroyed the Ancient World. https://t.co/fbO03q93Kl,70,NYT
+0.5267,0.087,0.652,0.261,Sat Jun 09 10:22:33 +0000 2018,atmosphere: The Rich Are Planning to Leave This Wretched Planet. https://t.co/0JPpaRY0Ww,71,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:21:33 +0000 2018,"Check In: At a London Hotel, Art Deco Design and Stylish Cocktails. https://t.co/OMgzsazBDB",72,NYT
+-0.1027,0.149,0.851,0.0,Sat Jun 09 10:20:33 +0000 2018,U.N. Imposes Sanctions on 6 for Trafficking Libyan Migrants. https://t.co/5YoVQx7a6c,73,NYT
+-0.1779,0.108,0.892,0.0,Sat Jun 09 10:15:33 +0000 2018,"Playlist: The Playlist: Kanye West’s Breakout Star 070 Shake, and 10 More New Songs. https://t.co/b64ANwR65I",74,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:14:33 +0000 2018,Review: Pulled Apart by ‘Love and Intrigue’. https://t.co/1vKc88r9PF,75,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:13:33 +0000 2018,"To Conduct Its Parks Concerts, the Philharmonic Taps a Rising Star. https://t.co/qpkJD96dI7",76,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:12:33 +0000 2018,The Shortlist: 3 New Novels on the Perils of Digital Life. https://t.co/v1ymR7XOJ7,77,NYT
+0.0258,0.237,0.52,0.243,Sat Jun 09 10:11:33 +0000 2018,"The Best, Worst and Scariest of This Week’s Movie Trailers. https://t.co/H3HIuUOI2R",78,NYT
+0.5267,0.0,0.673,0.327,Sat Jun 09 10:10:33 +0000 2018,The Poetic Justice of Stella Abrera’s Juliet. https://t.co/nsLltMMcHa,79,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:09:33 +0000 2018,Critic’s Notebook: High School Musicians Take On the (Almost) Unplayable. https://t.co/9h0U5cY96U,80,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:08:33 +0000 2018,Lisa Edelstein Says Goodbye to Her ‘Girlfriends’. https://t.co/q3MLUdhG3G,81,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:07:33 +0000 2018,"A Word With: Kevin Costner Revisits the American West, Now by Helicopter. https://t.co/WhXKfYy7B4",82,NYT
+0.6486,0.0,0.629,0.371,Sat Jun 09 10:06:33 +0000 2018,Streaming: ‘Caravaggio’ and Other Pleasures and Provocations for Pride Month. https://t.co/YJStl7KRnI,83,NYT
+0.6369,0.0,0.588,0.412,Sat Jun 09 10:05:33 +0000 2018,11 of Our Best Weekend Reads. https://t.co/lr52XIngj5,84,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:04:33 +0000 2018,"Art Is Becoming a Financial Product, and Blockchain Is Making It Happen. https://t.co/0hpbf8V7ME",85,NYT
+-0.4215,0.226,0.774,0.0,Sat Jun 09 10:03:33 +0000 2018,"RuPaul’s Drag Race: ‘RuPaul’s Drag Race’ Season 10, Episode 11 Recap: Just Don’t Stare. https://t.co/57dkxvXNch",86,NYT
+-0.1531,0.11,0.89,0.0,Sat Jun 09 10:02:33 +0000 2018,‘You Have to Be Girl-Power Tough’: Pageant Competitors Weigh in on Miss America. https://t.co/g7rk3Fdf2J,87,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 10:01:33 +0000 2018,"This Week: Philharmonic Concerts in the Parks, Summer Jam, Alvin Ailey. https://t.co/WBNhlb5cLc",88,NYT
+0.5859,0.0,0.648,0.352,Sat Jun 09 10:00:33 +0000 2018,He Literally Wrote the Book on Fabulousness. https://t.co/kakzT5i1K9,89,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 09:59:33 +0000 2018,New York Today: New York Today: 5 Reasons to Watch the Tonys. https://t.co/uECIneaanG,90,NYT
+0.6369,0.0,0.792,0.208,Sat Jun 09 09:58:33 +0000 2018,Best of Late Night: Colbert Wants Trump to Prepare More for His Meeting With Kim Jong-un. https://t.co/dlLu5WdoMN,91,NYT
+-0.8979,0.645,0.355,0.0,Sat Jun 09 09:57:33 +0000 2018,"Crime: Dangerous Disappearing Acts, With Killers in Pursuit. https://t.co/AMeAzrnitr",92,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 09:56:33 +0000 2018,Inside the List: Everything Is Copy. https://t.co/VVuY4wjMTR,93,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 09:55:33 +0000 2018,"New in Paperback: ‘Rising Star,’ ‘Mrs. Fletcher’. https://t.co/18RNZNm0Qj",94,NYT
+0.0516,0.145,0.64,0.215,Sat Jun 09 09:54:33 +0000 2018,"The Shortlist: The Struggles of Modern Motherhood in Essays, a Thriller and a Dystopian Novel. https://t.co/HyV38ek8eQ",95,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 09:50:33 +0000 2018,"Fiction: A Persian Turned Parisian Insists: I’m Not an Immigrant, I’m an Exile. https://t.co/eiNIhsC2RD",96,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 09:47:33 +0000 2018,Our Back Pages: Notes From the Book Review Archives. https://t.co/NeQuxiRhSi,97,NYT
+0.0,0.0,1.0,0.0,Sat Jun 09 09:46:33 +0000 2018,What’s on TV Friday: ‘Sense8’ and ‘Just Another Immigrant’. https://t.co/C78Y2SRZhS,98,NYT
+-0.5994,0.262,0.738,0.0,Sat Jun 09 09:45:33 +0000 2018,"David Douglas Duncan, 102, Who Photographed the Reality of War, Dies. https://t.co/rUB7XFI09P",99,NYT
+-0.4767,0.279,0.721,0.0,Sat Jun 09 09:44:33 +0000 2018,Op-Ed Columnist: The Price of an Incompetent President. https://t.co/EGkVSAGX3f,100,NYT
